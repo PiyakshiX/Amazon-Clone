@@ -13,5 +13,5 @@ HTML5 — Structure and layout
 
 CSS3 — Styling and responsive design
 
-JavaScript (ES6) — Interactive elements
+
 
